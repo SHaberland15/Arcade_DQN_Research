@@ -1,0 +1,6 @@
+[submodule "Code/DQN/Original_ApeX_Repo"]
+	path = Code/DQN/Original_ApeX_Repo
+	url = https://github.com/neka-nat/distributed_rl
+[submodule "Code/DQN/Original_SEED_Repo/seed_rl"]
+	path = Code/DQN/Original_SEED_Repo/seed_rl
+	url = https://github.com/google-research/seed_rl
