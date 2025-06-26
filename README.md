@@ -1,13 +1,13 @@
 # Arcade_DQN_Research
 [![DOI](https://zenodo.org/badge/943246516.svg)](https://doi.org/10.5281/zenodo.14974340)
-Associated Repository for the [manuskript]().
+Associated Repository for the [manuskript](https://www.biorxiv.org/content/10.1101/2025.05.20.655119v1).
 
 <div style="text-align:center;">
 <img src="./media/comparison_human_DQN.gif" alt="DQN" width="80%" height="80%">
 </div>
 
 ## Repository Content
-This repository contains the code for the [paper]().
+This repository contains the code for the [paper](https://www.biorxiv.org/content/10.1101/2025.05.20.655119v1).
 The raw behavioral data, the generated Q-values, and the outcomes of the analysis can be accessed via [OSF](https://osf.io/xqmjc/).  
 The folder `Code` contains the code for the analysis, including code for the experiment (Python), DQNs (Baseline DQN\[1\], Ape-X\[2\], SEED\[3\]) and the GLM (MATLAB).
 
